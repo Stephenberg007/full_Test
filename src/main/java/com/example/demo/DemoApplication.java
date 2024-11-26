@@ -11,6 +11,8 @@ public class DemoApplication {
 
 		int i=10;
 		float i =22.45f;
+		double price = 1000.0;
+		
 		system.out.println(i);
 
 	}
