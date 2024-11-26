@@ -11,7 +11,10 @@ public class DemoApplication {
 
 		int i=10;
 		float i =22.45f;
-		double price = 1000.0;
+double price = 1000.0;
+boolean b1 = true;
+		boolean isUpdated = false;
+
 		
 		system.out.println(i);
 
