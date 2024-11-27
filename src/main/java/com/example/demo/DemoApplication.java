@@ -8,8 +8,10 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
+
 		int c1=225;
 		int d1 =226;
+		int a =100;
 
 		int i=10;
 		float i =22.45f;
@@ -17,7 +19,11 @@ double price = 1000.0;
 boolean b1 = true;
 		boolean isUpdated = false;
 
-		
+	int a1 =100;
+	int b1 =251;
+		int c1 =351;
+
+
 		system.out.println(i);
 
 
