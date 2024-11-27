@@ -8,7 +8,8 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
-
+		int c1=225;
+		int d1 =226;
 
 		int i=10;
 		float i =22.45f;
