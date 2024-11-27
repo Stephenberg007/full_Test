@@ -17,7 +17,8 @@ boolean b1 = true;
 		boolean isUpdated = false;
 
 	int a1 =100;
-		
+	int b1 =251;
+		int c1 =351;
 
 
 		system.out.println(i);
