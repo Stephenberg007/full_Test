@@ -6,6 +6,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class DemoApplication {
 
+// JIRA-102
+		void m2(){
+			//logic
+		}
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 		int a =100;
