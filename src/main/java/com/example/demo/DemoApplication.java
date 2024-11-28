@@ -6,10 +6,17 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class DemoApplication {
 
+
 // JIRA-102
 		void m2(){
 			//logic
 		}
+	//for git stash
+	public void m1(){
+			//logic
+	}
+	
+
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 		int a =100;
